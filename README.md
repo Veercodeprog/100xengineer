@@ -22,9 +22,3 @@ Here are some of the best free resources to learn React:
 4. [Codecademy React Course](https://www.codecademy.com/learn/react-101)
 5. [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/react)
 
-## Other Sections
-
-- Express Backend
-- LangchainJS agent library
-- gpt-3.5 as the model to start with
-- k8s for giving agent resources
